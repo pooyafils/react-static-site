@@ -5,14 +5,18 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 import Footer from './components/footer/Footer'
 import React,{Component} from 'react'
 import NavBar from './components/nav-bar/NavBar'
+import AboutUs from "./components/about us/AboutUs";
+import ContactUs from "./components/contact us/ContactUs";
 class App extends Component{
 
   render() {
 
     return(
 <div>
-        <NavBar/>
-        <Footer/>
+       {/*<NavBar/>
+        <Footer/>*/}
+       {/* <AboutUs/>*/}
+       <ContactUs/>
 </div>
     )
   }
