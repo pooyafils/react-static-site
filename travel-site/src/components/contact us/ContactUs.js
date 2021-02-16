@@ -15,10 +15,10 @@ const ContactUs=()=>{
                         <div class="col-md-4">
                             <div class="card p-4">
                                 <div class="card-body">
-                                    <h4>Get In Touch</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                    <h4>some text</h4>
+                                    <p>some textsome textsome textsome text</p>
                                     <h4>Address</h4>
-                                    <p>550 Main st Boston MA</p>
+                                    <p>some text</p>
                                     <h4>Email</h4>
                                     <p>test@test.com</p>
                                     <h4>Phone</h4>

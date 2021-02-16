@@ -15,7 +15,7 @@ return(
                 <div className="row">
                     <div className="col-md-6 m-auto text-center">
                         <h1>About Us</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, saepe.</p>
+                        <p>some text some text some text </p>
                     </div>
                 </div>
             </div>
@@ -27,12 +27,12 @@ return(
                 <div className="row">
                     <div className="col-md-6">
                         <h1>What We Do</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum sequi necessitatibus deleniti
-                            accusamus provident dignissimos numquam fuga nulla quia voluptatibus, dolore voluptate
-                            excepturi accusantium dolores temporibus fugit, voluptas velit omnis!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum sequi necessitatibus deleniti
-                            accusamus provident dignissimos numquam fuga nulla quia voluptatibus, dolore voluptate
-                            excepturi accusantium dolores temporibus fugit, voluptas velit omnis!</p>
+                        <p> some text some text some text some text some text
+                            some text some text some text some text some text some text
+                            some text some text some text some text some text some text </p>
+                        <p> some text some text some text some text some text some text
+                            some text some text some text some text some text some text
+                            some text some text some text some text some text </p>
                     </div>
                     <div className="col-md-6">
                         <img src={picture}  alt=""
@@ -49,8 +49,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-building"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3>title </h3>
+                                 text some text some text some text
                             </div>
                         </div>
                     </div>
@@ -58,8 +58,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-bullhorn"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3>title</h3>
+                                some text some text some text some text
                             </div>
                         </div>
                     </div>
@@ -67,8 +67,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-comments"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3>title</h3>
+                                 text some text some text some text .
                             </div>
                         </div>
                     </div>
@@ -79,8 +79,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-clock-o"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3>title </h3>
+                                 text some text some text some text
                             </div>
                         </div>
                     </div>
@@ -88,8 +88,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-cc"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3> title</h3>
+                                text some text some text some text
                             </div>
                         </div>
                     </div>
@@ -97,8 +97,8 @@ return(
                         <div className="card bg-danger text-center text-white">
                             <div className="card-body">
                                 <i className="fa fa-coffee"></i>
-                                <h3>Lorem ipsum</h3>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, architecto.
+                                <h3>title</h3>
+                                some text some text some text some text
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@ return(
                         <div className="slider">
                             <div>
                                 <blockquote className="blockquote">
-                                    <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo,
+                                    <p className="mb-0">some text some text some text some text some text
                                         sunt!</p>
                                     <footer className="blockquote-footer">John Doe From <cite title="Company 1">Company
                                         1</cite></footer>
@@ -122,7 +122,7 @@ return(
                             </div>
                             <div>
                                 <blockquote className="blockquote">
-                                    <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo,
+                                    <p className="mb-0"> some text some text some text some text some text some text
                                         sunt!</p>
                                     <footer className="blockquote-footer">Steve Smith From <cite title="Company 2">Company
                                         2</cite></footer>
@@ -130,7 +130,7 @@ return(
                             </div>
                             <div>
                                 <blockquote className="blockquote">
-                                    <p className="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo,
+                                    <p className="mb-0"> some text some text some text some text
                                         sunt!</p>
                                     <footer className="blockquote-footer">Megan Williams From <cite title="Company 3">Company
                                         3</cite></footer>
