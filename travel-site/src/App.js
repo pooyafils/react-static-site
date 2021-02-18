@@ -9,6 +9,7 @@ import AboutUs from "./components/about us/AboutUs";
 import ContactUs from "./components/contact us/ContactUs";
 import Login from "./components/login/Login";
 import Faq from "./components/fqa/Faq"
+import Registration from "./components/registration/Registration";
 class App extends Component{
 
   render() {
@@ -20,7 +21,8 @@ class App extends Component{
         {/*<AboutUs/>*/}
        {/*<ContactUs/>*/}
 {/*<Faq/>*/}
-<Login/>
+{/*<Login/>*/}
+<Registration/>
 </div>
     )
   }
