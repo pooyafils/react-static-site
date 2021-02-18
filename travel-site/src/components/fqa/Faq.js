@@ -8,11 +8,11 @@ const Faq=()=>{
         <div>
             <NavBar/>
             <div className="container w-75">
-            <div id="accordion2">
+            <div id="accordion1">
                 <div className="card">
                     <div class="card-header">
                         <h5>
-                            <a href="#collapse1" data-parent="#accordion2" data-toggle="collapse">
+                            <a href="#collapse1" data-parent="#accordion1" data-toggle="collapse">
                                 ask ask
                             </a>
                         </h5>
@@ -31,7 +31,7 @@ const Faq=()=>{
             </div>
             </div>
 
-
+<Footer/>
 
         </div>
 

@@ -7,6 +7,7 @@ import React,{Component} from 'react'
 import NavBar from './components/nav-bar/NavBar'
 import AboutUs from "./components/about us/AboutUs";
 import ContactUs from "./components/contact us/ContactUs";
+import Login from "./components/login/Login";
 import Faq from "./components/fqa/Faq"
 class App extends Component{
 
@@ -18,7 +19,8 @@ class App extends Component{
         <Footer/>*/}
         {/*<AboutUs/>*/}
        {/*<ContactUs/>*/}
-<Faq/>
+{/*<Faq/>*/}
+<Login/>
 </div>
     )
   }
