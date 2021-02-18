@@ -10,6 +10,7 @@ import ContactUs from "./components/contact us/ContactUs";
 import Login from "./components/login/Login";
 import Faq from "./components/fqa/Faq"
 import Registration from "./components/registration/Registration";
+import MainPage from "./components/mainpage/MainPage";
 class App extends Component{
 
   render() {
@@ -22,7 +23,8 @@ class App extends Component{
        {/*<ContactUs/>*/}
 {/*<Faq/>*/}
 {/*<Login/>*/}
-<Registration/>
+{/*<Registration/>*/}
+<MainPage/>
 </div>
     )
   }
