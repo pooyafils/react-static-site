@@ -19,7 +19,9 @@ class App extends Component{
 <div>
        {/*<NavBar/>
         <Footer/>*/}
-        {/*<AboutUs/>*/}
+{/*
+        <AboutUs/>
+*/}
        {/*<ContactUs/>*/}
 {/*<Faq/>*/}
 {/*<Login/>*/}
