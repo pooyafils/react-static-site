@@ -11,7 +11,7 @@ class NavBar extends Component{
                 <nav className="navbar navbar-expand-sm navbar-dark bg-dark mb-3">
 
                     <div className="container">
-                       <Link to="/"> <a className="navbar-brand" href="#">travel site</a></Link>
+                       <Link to="/"> <a className="navbar-brand" href="#">Gym class</a></Link>
                         <button className="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
                             <span className="navbar-toggler-icon"></span>
                         </button>
@@ -34,6 +34,11 @@ class NavBar extends Component{
                                 <li className="nav-item">
                                     <a className="nav-link" href="#">Contact</a>
                                 </li>
+                                </Link>
+                                <Link to="/faq">
+                                    <li className="nav-item">
+                                        <a className="nav-link" href="#">FAQ</a>
+                                    </li>
                                 </Link>
                             </ul>
                         </div>
