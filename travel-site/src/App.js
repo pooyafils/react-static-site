@@ -10,7 +10,7 @@ import ContactUs from "./components/contact us/ContactUs";
 import Login from "./components/login/Login";
 import Faq from "./components/fqa/Faq"
 import Registration from "./components/registration/Registration";
-import {Route,BrowserRouter,Link} from "react-router-dom"
+import {Route,BrowserRouter as Router,Link,Switch} from "react-router-dom"
 
 import MainPage from "./components/mainpage/MainPage";
 class App extends Component{
@@ -19,23 +19,19 @@ class App extends Component{
 
     return(
 <div>
-       {/*<NavBar/>
-        <Footer/>*/}
-{/*
-        <AboutUs/>
-*/}
-       {/*<ContactUs/>*/}
-{/*<Faq/>*/}
-{/*<Login/>*/}
-{/*<Registration/>*/}
-{/*<MainPage/>*/}
 
-<BrowserRouter>
-    <Route path={"/aboutus"} component={AboutUs}/>
-    <ul>
-        <li><Link to={"/aboutus"}>about us</Link></li>
-    </ul>
-</BrowserRouter>
+<Router>
+    <NavBar/>
+    <Switch>
+        <Route path="/" exact component={MainPage}/>
+        <Route path="/about" exact component={AboutUs}/>
+    <Route path="/faq" exact component={Faq}/>
+    <Route path="/contactus" exact component={ContactUs}/>
+
+    <Footer/>
+    </Switch>
+</Router>
+
 </div>
     )
   }

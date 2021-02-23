@@ -37,7 +37,6 @@ const Registration=()=> {
 </form>
 
 </div>
-            <Footer/>
         </div>
     )
 

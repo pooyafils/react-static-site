@@ -9,7 +9,6 @@ const Login=()=>{
 
     return(
     <div>
-        <NavBar/>
         <div className="mt-3">
 
             <div className="wrapper fadeInDown">
@@ -32,7 +31,6 @@ const Login=()=>{
             </div>
 
         </div>
-        <Footer/>
     </div>
     )
 }

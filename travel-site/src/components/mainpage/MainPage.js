@@ -11,11 +11,9 @@ import persons3 from '../../img/person3.jpg'
 import persons4 from '../../img/person4.jpg'
 import france from '../../img/france-loire-villandry-chateau.jpg'
 const MainPage=()=>{
-
-
     return(
         <div>
-            <NavBar/>
+
             <section id="showcase" className="py-5">
                 <div className="primary-overlay text-white">
                     <div className="container">
@@ -38,7 +36,6 @@ const MainPage=()=>{
             </section>
 
 
-<Footer/>
         </div>
 
             )

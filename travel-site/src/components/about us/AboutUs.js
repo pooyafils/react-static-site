@@ -9,7 +9,6 @@ const AboutUs=()=> {
 return(
     <div>
 
-        <NavBar/>
         <header className="page-header">
             <div className="container">
                 <div className="row">
@@ -143,7 +142,6 @@ return(
         </section>
 
 
-        <Footer/>
 
     </div>
 )

@@ -8,7 +8,6 @@ const ContactUs=()=>{
     return(
 
         <div className="ContactUs">
-            <NavBar/>
             <section id="contact" class="py-3">
                 <div class="container">
                     <div class="row">
@@ -69,7 +68,6 @@ const ContactUs=()=>{
                 </div>
             </section>
 
-        <Footer/>
 
         </div>
     )
