@@ -6,7 +6,6 @@ import 'jquery/dist/jquery.min.js'
 const Faq=()=>{
     return(
         <div>
-            <NavBar/>
             <div className="container w-75">
             <div id="accordion1">
                 <div className="card">
@@ -31,7 +30,6 @@ const Faq=()=>{
             </div>
             </div>
 
-<Footer/>
 
         </div>
 
