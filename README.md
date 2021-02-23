@@ -1,1 +1,1 @@
-# travel-website
+# React static web site
